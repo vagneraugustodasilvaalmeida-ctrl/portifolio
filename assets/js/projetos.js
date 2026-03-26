@@ -54,7 +54,7 @@ function projetos(section) {
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vagnerovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -93,7 +93,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/roberto-links.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vagnerovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -130,7 +130,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/roberto-consulta.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-consulta" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vagnerovidio/robertoovidionutri-consulta" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -167,7 +167,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/doctorcare" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vagnerovidio/doctorcare" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,7 +181,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
+              <a href="https://vagnerovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -204,7 +204,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vagnerovidio/portifolio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -218,7 +218,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://vagnerovidio.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
